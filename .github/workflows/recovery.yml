@@ -16,7 +16,7 @@ on:
 env:
   MANIFEST: https://gitlab.com/OrangeFox/Manifest.git -b fox_9.0 
   DEVICE: X604
-  DT_LINK: https://github.com/dmurimi14/android_device_Infinix_X604
+  DT_LINK: https://github.com/halcyon441-png/android_10_spourt
   DT_PATH: device/infinix/X604
   TARGET: bootimage
   TZ: Asia/Kolkata
