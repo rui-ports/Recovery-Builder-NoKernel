@@ -15,7 +15,7 @@ on:
 
 env:
   MANIFEST: https://gitlab.com/OrangeFox/Manifest.git -b fox_9.0
-  DEVICE: X604
+  DEVICE: note5
   DT_LINK: https://github.com/halcyon441-png/android_10_spourt
   DT_PATH: device/infinix/note5
   TARGET: bootimage
