@@ -14,7 +14,7 @@ on:
     types: [started]
 
 env:
-  MANIFEST: git://https://github.com/omnirom/android_bootable_recovery.git -b android-9.0
+  MANIFEST: git://github.com/omnirom/android_bootable_recovery.git -b android-9.0
   DEVICE: X604
   DT_LINK: https://github.com/dmurimi14/android_device_Infinix_X604
   DT_PATH: device/infinix/X604
