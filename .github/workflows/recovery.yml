@@ -14,11 +14,11 @@ on:
     types: [started]
 
 env:
-  MANIFEST: https://gitlab.com/OrangeFox/Manifest.git
-  DEVICE: CPH1861
-  DT_LINK: https://github.com/JamieHoSzeYui/dummy_CPH1861_TWRP
-  DT_PATH: device/oppo/CPH1861
-  TARGET: recoveryimage
+  MANIFEST: git://github.com/SKYHAWK-Recovery-Project/platform_manifest_twrp_omni.git -b android-9.0
+  DEVICE: x604_h633
+  DT_LINK: https://github.com/halcyon441-png/android_10_spourt
+  DT_PATH: device/infinix/x604_h633
+  TARGET: bootimage
   TZ: Asia/Kolkata
 
 jobs:
