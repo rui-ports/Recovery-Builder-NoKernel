@@ -15,10 +15,10 @@ on:
 
 env:
   MANIFEST: https://gitlab.com/OrangeFox/Manifest.git -b fox_9.0
-  DEVICE: ysl
-  DT_LINK: https://github.com/adamayyad/ysl-twrp
-  DT_PATH: device/xiaomi/ysl
-  TARGET: recoveryimage
+  DEVICE: X604
+  DT_LINK: https://github.com/qrovic/android_10_spourt.git
+  DT_PATH: device/xiaomi/X604
+  TARGET: bootimage
   TZ: Asia/Kolkata
 
 jobs:
