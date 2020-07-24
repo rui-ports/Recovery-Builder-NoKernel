@@ -14,7 +14,7 @@ on:
     types: [started]
 
 env:
-  MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni -b twrp-9.0
+  MANIFEST: https://gitlab.com/OrangeFox/Manifest.git -b fox_9.0
   DEVICE: X604
   DT_LINK: https://github.com/qrovic/note5initwrpq.git
   DT_PATH: device/infinix/X604
