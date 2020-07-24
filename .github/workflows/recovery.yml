@@ -53,5 +53,5 @@ jobs:
          run: |
               cd work/out/target/product/$DEVICE
               curl -sL https://git.io/file-transfer | sh
-              ./transfer bit boot.img      
+              ./transfer gof boot.img      
                  
